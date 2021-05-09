@@ -1,4 +1,4 @@
-ALTER PROC insertar_salon
+create PROC insertar_salon
 @salon varchar(50)
 AS
 declare @estado varchar(50)
